@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name                        Helvetifeedly
 // @namespace                   Helvetifeedly
-// @version                     0.1
+// @version                     0.2
+// @reason                      sidebar auto scroll to feeds list
 // @author                      Mescoda on http://mescoda.com/
 // @description                 Style for Feedly.com
 // @include                     http://www.feedly.com/home*
