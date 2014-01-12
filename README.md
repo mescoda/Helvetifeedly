@@ -1,7 +1,7 @@
 # Helvetifeedly
 
-Style for Feedly.com, just another userscript for feedly.
+Just another style userscript for Feedly.com
 
 ## Install
 
-[on userscripts.org](http://userscripts.org/scripts/show/172571) or [on github](https://github.com/mescoda/Helvetifeedly/raw/master/Helvetifeedly.user.js)
+[on github](https://github.com/mescoda/Helvetifeedly/raw/master/Helvetifeedly.user.js) or [on userscripts.org](http://userscripts.org/scripts/show/172571)
